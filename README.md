@@ -1,4 +1,4 @@
-# 🔥 Responsive Portfolio Website Asrith Raju
+# 🔥 Responsive Portfolio Website Muhammad Amir
 ### 🔥 Responsive Portfolio Website
 
 - Responsive Portfolio Website Using HTML CSS & JavaScript
@@ -6,4 +6,3 @@
 - Includes a dark and light mode.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
